@@ -58,5 +58,5 @@ body {
       </table>
        
 <img src="imag1.jpg"  height ="300"  width="1400">
-      </body>
-      </html>
+</body>
+</html>
