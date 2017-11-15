@@ -142,7 +142,7 @@
 					         <option>M.Sc</option>
 					         <option>MCA</option>
                                                                                             	
-				   </select>
+				       </select>
 	       </td>
 	 </tr>
                
@@ -155,12 +155,11 @@
                                          	 <option>V</option>
 						 <option>VI</option>
                                                                                             	
-					</select>
+				      </select>
 					
-            </td>
+               </td>
 	</tr>
-             
-        
+         
         <tr>
                 <td>Contact No:</td><td><input type='text' id='Contact_No' name='Contact_No'></td>     
                
@@ -175,7 +174,7 @@
          </tr>
  
     </table>
-    <img src="imag1.jpg"  height ="300"  width="1400">
+     <img src="imag1.jpg"  height ="300"  width="1400">
    </form>
  </body>
 </html>
