@@ -55,7 +55,7 @@ request.setAttribute("notlogin_msg","Sorry,Please do Login first");
     
          <img src="imag2.jpg"  height ="250"  width="1400">
  
-    <form method="post" id="form1"  action="">
+    <form method="post" id="form1">
             
 <style>
 body {
@@ -66,12 +66,12 @@ body {
             <table align =center>
 
           <tr>
-                <td>Enter Mail Id:</td><td><input type='text' id='email' name='email' ></td>                
+                <td>Enter Mail Id:</td><td><input type='text' id="email" name='email' ></td>                
          
             </tr>
            
              <tr>
-                <td>Enter Subject Code:</td><td><input type='text'  id='scode' name='scode'></td>                
+                <td>Enter Subject Code:</td><td><input type='text'  id="scode" name='scode'></td>                
          
             </tr>
               
