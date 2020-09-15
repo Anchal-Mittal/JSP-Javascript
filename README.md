@@ -1,2 +1,2 @@
-# JSP-Javascript
-Learning Javascript from basics to advanced
+# JSP-Java Server Pages
+Learning Java Server Pages from basics to advanced
